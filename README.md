@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @runakogitss
-- 👀 I’m interested in creating projects!
+- 👀 I’m interested in creating projects such as video games, website or applications. 
 - 🌱 I’m currently learning HTML series and C++, beginner's luck :)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I'm hoping to graduate a Bachelor and Working in A Fine Company
+- 📫 Reach me to my Instagram @runako_reynard! We could talk more coding or other stuffs!
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact:
 - This project is the part of coding journey, I hope i could interest your thoughts!
 
